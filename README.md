@@ -1,5 +1,6 @@
 # Win10 Widgets for OBS
 Win10 Widgets風のOBS用ウィジェット。
+
 ## How to use(ダウンロード版)
 1. `index.html`をダウンロード
 1. OBS画面下部にあるソースセクションの「+」ボタンをクリック。
@@ -9,7 +10,6 @@ Win10 Widgets風のOBS用ウィジェット。
 1. 幅を「360」、高さを「120」に指定。
 
 ## How to use(オンライン版)
-
 1. OBS画面下部にあるソースセクションの「+」ボタンをクリック。
 1. 表示された一覧から「ブラウザ」ソースを選択。
 1. 「URL」に[オンライン版URL](https://my7337.github.io/Win10Widgets-for-OBS/)を選択。
